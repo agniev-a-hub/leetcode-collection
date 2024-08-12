@@ -1,5 +1,7 @@
 https://leetcode.com/problems/palindrome-number/description/
 
+EASY
+
 9. Palindrome Number
 
 Given an integer x, return true if x is a
