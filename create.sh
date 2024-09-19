@@ -1,1 +1,1 @@
-# TODO - given name ofa file we must create dir with files prepared
+# TODO - givenname ofa file we must create dir with files prepared
